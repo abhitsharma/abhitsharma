@@ -4,8 +4,8 @@
 > I am a hardworking individual who is dedicated towards my goals.
 <br />
 
-- 🌱 &nbsp; I'm currently studying for MCA in IP University, Delhi
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🌱 &nbsp;I'm currently studying for MCA in IP University, Delhi
+- :computer:Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhit-sharma-4418401b1/)
 - 📫 How to reach me **abhits05@gmail.com**
 - 📝 I studied at Jamia Hamdard and completed my bachelor's in Computer applications
 - 💬 Ask me about: anything, I am happy to help
@@ -65,3 +65,5 @@
 <img  alt="11" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
 
 
+<br><br>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
