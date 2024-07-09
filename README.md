@@ -4,9 +4,10 @@
 > I am a hardworking individual who is dedicated towards my goals.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for MCA in IP University, Delhi
+- 🌱 &nbsp;I'm currently Working as a Ios Devloper, Delhi
 - :computer:Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhit-sharma-4418401b1/)
 - 📫 How to reach me **abhits05@gmail.com**
+- 📝I studied for MCA in IP University, Delhi
 - 📝 I studied at Jamia Hamdard and completed my bachelor's in Computer applications
 - 💬 Ask me about: anything, I am happy to help
 <img src="https://komarev.com/ghpvc/?username=abhitsharma&label=Profile%20views&color=brightgreen&style=plastic" alt="abhit's profile views" /> 
