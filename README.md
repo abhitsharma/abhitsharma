@@ -4,7 +4,7 @@
 > I am a hardworking individual who is dedicated towards my goals.
 <br />
 
-- 🌱 &nbsp;I'm currently Working as a Ios Devloper, Delhi
+- 🌱 &nbsp;I'm currently working as a iOS devloper.
 - :computer:Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhit-sharma-4418401b1/)
 - 📫 How to reach me **abhits05@gmail.com**
 - 📝I studied for MCA in IP University, Delhi
