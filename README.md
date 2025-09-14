@@ -1,21 +1,24 @@
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- ### Hi there 👋 I am Abhit Sharma from Delhi, India
+<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  
 
-> I am a hardworking individual who is dedicated towards my goals.
+### Hi there 👋 I am Abhit Sharma from Delhi, India  
+
+> A passionate **iOS Developer** with 2+ years of experience, dedicated to building high-performance, user-friendly mobile applications.  
+
 <br />
 
-- 🌱 &nbsp;I'm currently working as a iOS devloper.
-- :computer:Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhit-sharma-4418401b1/)
-- 📫 How to reach me **abhits05@gmail.com**
-- 📝I studied for MCA in IP University, Delhi
-- 📝 I studied at Jamia Hamdard and completed my bachelor's in Computer applications
-- 💬 Ask me about: anything, I am happy to help
-<img src="https://komarev.com/ghpvc/?username=abhitsharma&label=Profile%20views&color=brightgreen&style=plastic" alt="abhit's profile views" /> 
-	
-  <br><br>
+- 🌱 Currently working on building scalable **iOS applications**  
+- 💡 Skilled in **Swift, SwiftUI, UIKit, Combine, GraphQL, Amplify, Firebase, and Core Data**  
+- :computer: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhit-sharma-4418401b1/)  
+- 📫 How to reach me **abhits05@gmail.com**  
+- 🎓 MCA from **IP University**, Delhi  
+- 💬 Ask me about: iOS, Swift, SwiftUI, Firebase, App Architecture, and UI/UX best practices  
+
+<img src="https://komarev.com/ghpvc/?username=abhitsharma&label=Profile%20views&color=brightgreen&style=plastic" alt="abhit's profile views" />  
+
+---
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>GitHub Activeness</b></i>
 </p>
  
 <p>
@@ -24,48 +27,41 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhitsharma&show_icons=true&locale=en&theme=chartreuse-dark" alt="abhit" width="410"/>
 </p>
 
-<br><br><br><br><br><br><br><br>
-## Languages
+<br clear="both"/>
 
+---
 
-<div>
-<img  alt="Swift" src ="https://img.shields.io/badge/swift-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>
-<img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img  alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img  alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img  alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img  alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img  alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img  alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img  alt="Panadas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+## 🚀 Languages & Frameworks  
 
-<br><br>
-## Databases
+<img alt="Swift" src="https://img.shields.io/badge/swift-E34F26?style=for-the-badge&logo=swift&logoColor=white"/>  
+<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>  
+<img alt="UIKit" src="https://img.shields.io/badge/UIKit-2C2C2C?style=for-the-badge&logo=apple&logoColor=white"/>  
+<img alt="Combine" src="https://img.shields.io/badge/Combine-0066CC?style=for-the-badge&logo=apple&logoColor=white"/>  
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>  
+<img alt="Amplify" src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/>  
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+<img alt="CoreData" src="https://img.shields.io/badge/Core%20Data-1E90FF?style=for-the-badge&logo=apple&logoColor=white"/>  
 
-<img  alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img  alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img  alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+---
 
-<br><br>
-## Frameworks
-<img  alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img  alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-<img  alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img  alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img  alt="jwt" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-<img  alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img  alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img  alt="unreal engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+## 🗄️ Databases  
 
-<br><br>
-## Tools currently Using
-<img  alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-<img  alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img  alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img  alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img  alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img  alt="11" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>  
+<img alt="FirebaseDB" src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+<img alt="Firestore" src="https://img.shields.io/badge/Firestore-FF7139?style=for-the-badge&logo=firebase&logoColor=white"/>  
 
+---
 
-<br><br>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+## 🛠️ Tools I Use  
+
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>  
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>  
+<img alt="SourceTree" src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>  
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>  
+
+---
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)  
+
